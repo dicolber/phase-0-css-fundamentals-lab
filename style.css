@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+nav>a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px; 
+  background-color: antiquewhite;
+}
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+section>p {
+  text-align: center;
+  height: 10x;
+  max-width: 800px;
+
+}
+
+div {
+  float: left;
+  background-color: blueviolet;
+  text-align: center;
+  width: 25%;
+}
